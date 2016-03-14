@@ -4,3 +4,6 @@
 [submodule "maple-mini/atomthreads/atomthreads"]
 	path = maple-mini/atomthreads/atomthreads
 	url = git://github.com/kelvinlawson/atomthreads.git
+[submodule "atomthreads"]
+	path = atomthreads
+	url = git://github.com/kelvinlawson/atomthreads.git
